@@ -10,6 +10,15 @@ I’ve laid out all the steps below to make things as clear as possible. That sa
 
 * [Samsung TV](#samsung-tv)
 * [LG TV](#lg-tv)
+* [TCL, Hisense or Sony TV](#tcl-hisense-or-sony-tv)
+* [Other TV brands](#other-tv-brands)
+* [Roku](#roku)
+* [Amazon Fire TV Stick](#amazon-fire-tv-stick)
+* [Chromecast / Google TV](#chromecast--google-tv)
+* [Apple TV](#apple-tv)
+* [AirPlay (iPhone/iPad)](#airplay-iphoneipad)
+* [Screen Mirroring (Android)](#screen-mirroring-android)
+* [Flash Drive](#flash-drive)
 
 ## Samsung TV
 
