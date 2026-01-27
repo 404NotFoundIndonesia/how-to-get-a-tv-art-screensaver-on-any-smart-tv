@@ -46,13 +46,13 @@ You’re in luck if you own a Sony, Hisense, or TCL model, as these brands typic
 
 It’s honestly a huge win for what we're trying to do! Having that tech ready to go makes the whole process much smoother.
 
-Because your TV likely has these features, I’ve put together a quick guide below on how to cast your favorite artwork directly to the screen.
+Because your TV likely has these features, I’ve put together a quick guide below on [how to cast your favorite artwork directly to the screen](#chromecast--google-tv).
 
 ## Other TV brands
 
-Before buying anything new, take a look at what your TV—whether it’s a Panasonic, Vizio, or another brand—can already do in terms of syncing with your mobile devices. If those built-in tools aren't cutting it, you can always fall back on the old-school USB method. Plugging a flash drive directly into the TV is a super dependable way to get your photos on the big screen without any hassle.
+Before buying anything new, take a look at what your TV—whether it’s a Panasonic, Vizio, or another brand—can already do in terms of syncing with your mobile devices. If those built-in tools aren't cutting it, you can always fall back on the old-school USB method. [Plugging a flash drive directly into the TV](#flash-drive) is a super dependable way to get your photos on the big screen without any hassle.
 
-Alternatively, if your TV is lacking those "smart" features, picking up a streaming stick is a total game-changer. Gadgets like Roku, Chromecast, Fire TV, or Apple TV are usually pretty budget-friendly and are honestly a great investment for making phone-to-TV connections seamless.
+Alternatively, if your TV is lacking those "smart" features, picking up a streaming stick is a total game-changer. Gadgets like [Roku](#roku), [Chromecast]((#chromecast--google-tv)), Fire TV, or Apple TV are usually pretty budget-friendly and are honestly a great investment for making phone-to-TV connections seamless.
 
 ## Roku
 
